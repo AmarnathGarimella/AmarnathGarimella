@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AmarnathGarimella
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning cisco networking
-- 💞️ I’m looking to collaborate on networking
+- 👀 I’m interested in Networking and Cybersecurity
 - 📫 How to reach me by mail amarnathgarimella59@gmail.com
 
 <!---
